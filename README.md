@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 # Welcome to My World! 🌍
 
 ## Who Am I? 🧐
@@ -39,6 +38,3 @@ I'm always open to engaging in thoughtful discussions and exchanges of knowledge
 ---
 
 *This README is a reflection of my personal and professional ethos. It's an open invitation to like-minded individuals for meaningful interactions and knowledge exchange.*
-
-
--->
